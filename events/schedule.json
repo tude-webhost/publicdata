@@ -4,5 +4,17 @@
         "name": "Test Event",
         "type": "classic",
         "desc": "This is just a test, relax boys"
+    },
+    {
+        "date": "5/9/19",
+        "name": "Yet Another Test Event",
+        "type": "tournament",
+        "desc": "yeet\nlmao"
+    },
+    {
+        "date": "30/8/19",
+        "name": "Another Test Event",
+        "type": "contest",
+        "desc": "TEST TEST TEST TEST"
     }
 ]
